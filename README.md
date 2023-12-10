@@ -6,19 +6,15 @@ In dit project word onderzocht of het aantal McDonalds in een land een invloed h
 
 1. **Asian Countries by Population**
    - [Dataset Link](https://www.kaggle.com/datasets/sansuthi/asian-countries-by-population)
-   - *About:* This dataset spills the beans on the population of Asian countries. Let's see who's bringing the most people to the party!
 
 2. **Population by Country 2020**
    - [Dataset Link](https://www.kaggle.com/datasets/tanuprabhu/population-by-country-2020?rvi=1)
-   - *About:* Latest population stats from around the globe. Because, you know, we're thinking big.
 
 3. **McDonald's Stores Data**
    - [Dataset Link](https://www.kaggle.com/datasets/forveryou/mcdonalds-stores-data)
-   - *About:* McDonald's locations worldwide. Let's find out if the number of golden arches has anything to do with health!
 
 4. **Obesity Among Adults by Country (1975-2016)**
    - [Dataset Link](https://www.kaggle.com/datasets/amanarora/obesity-among-adults-by-country-19752016)
-   - *About:* How many adults in each country are winning at obesity from 1975 to 2016. Spoiler: we're looking for patterns!
 
 ## 📈 Analyse en Visualisatie:
 
@@ -33,7 +29,7 @@ In dit project:
 1. **Kloon de repository:**
 
    ```bash
-   git clone https://github.com/your-username/data-presentation-project.git
+   git clone https://github.com/Bazaar99/DataPresentation.git
    ```
 
 2. **Installeer de dependencies:**
